@@ -1,0 +1,24 @@
+body {
+    background-color: #000; /* Dark background color */
+    color: #fff; /* Light text color */
+  }
+#github{
+    height: 30px;
+    width: auto;
+    padding: 0;
+}  
+nav{
+    text-align: center;
+    padding-bottom: 1cm;
+}
+h1{
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 200px;
+    padding: 2cm;
+}
+footer{
+    text-align: center;
+}
